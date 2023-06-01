@@ -1,5 +1,5 @@
 # optimal_policy_it_2023
-Code for generating figures in the following paper:
+This code can be used for generating figures in the following paper:
 
 P. Hu, V. Bordignon, S. Vlaski and A. H. Sayed, "Optimal Aggregation Strategies for Social Learning over Graphs," in IEEE Transactions on Information Theory, doi: 10.1109/TIT.2023.3281647.
 
@@ -19,3 +19,7 @@ P. Hu, V. Bordignon, S. Vlaski and A. H. Sayed, "Optimal Aggregation Strategies 
 - Fig. 12:      Gaussian_adaptation_time.m
 
 - Figs. 13-14:  Gaussian_main.m
+
+Please note that the code is not generally perfected for performance, but is rather meant to illustrate certain results from the paper. The code is provided as-is without guarantees.
+
+June 2023 (Author: Ping Hu)
