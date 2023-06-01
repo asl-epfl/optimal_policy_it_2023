@@ -1,6 +1,7 @@
 # optimal_policy_it_2023
-Matlab code for generating figures in "Optimal Aggregation Strategies for Social Learning over Graphs" 
-published in IEEE Transactions on Information Theory.
+Code for generating figures in the following paper:
+
+P. Hu, V. Bordignon, S. Vlaski and A. H. Sayed, "Optimal Aggregation Strategies for Social Learning over Graphs," in IEEE Transactions on Information Theory, doi: 10.1109/TIT.2023.3281647.
 
 
 - Fig. 2:       plot_Gaussian_LMGF.m
