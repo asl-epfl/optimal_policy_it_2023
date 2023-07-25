@@ -1,7 +1,9 @@
-# optimal_policy_it_2023
+## Release v1.0.0 [![DOI](https://zenodo.org/badge/669195561.svg)](https://zenodo.org/badge/latestdoi/669195561)
+
+
 This code can be used for generating figures in the following paper:
 
-P. Hu, V. Bordignon, S. Vlaski and A. H. Sayed, "Optimal Aggregation Strategies for Social Learning over Graphs," in IEEE Transactions on Information Theory, doi: 10.1109/TIT.2023.3281647.
+P. Hu, V. Bordignon, S. Vlaski and A. H. Sayed, "Optimal Aggregation Strategies for Social Learning over Graphs," in IEEE Transactions on Information Theory, 2023. ![DOI](https://zenodo.org/badge/DOI/10.1109/TIT.2023.3281647.svg)
 
 *****************************************
 M files for each figure:
